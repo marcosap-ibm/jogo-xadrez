@@ -32,23 +32,21 @@ public class PosicaoXadrez {
 
     /** Metodos de processamento do jogo */
     /**
+     * IMPORTANTE:implementar definicao de posicao
      * metodo paraPosicao
      * devolve a posicao final de um movimento de uma peca de xadrez
      */
     public Posicao paraPosicao(){
 
-        //implementar definicao de posicao
-
         return null; //retornando nulo ate o final da implementacao
     }
 
     /**
+     * IMPORTANTE:implementar definicao de posicao
      * metodo daPosicao
      * devolve a posicao inicial de um movimento de uma peca de xadrez
      */
     public PosicaoXadrez daPosicao(Posicao posicao){
-
-        //implementar definicao de posicao
 
         return null; //retornando nulo ate o final da implementacao
     }
